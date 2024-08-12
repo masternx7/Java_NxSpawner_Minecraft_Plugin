@@ -1,0 +1,5 @@
+dev\fluffyworld\nxspawner\utils\MessageUtils.class
+dev\fluffyworld\nxspawner\NxSpawner.class
+dev\fluffyworld\nxspawner\utils\ConfigUtils.class
+dev\fluffyworld\nxspawner\listeners\SpawnerEventListener.class
+dev\fluffyworld\nxspawner\commands\NxSpawnerCommand.class

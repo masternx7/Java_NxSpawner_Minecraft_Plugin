@@ -1,0 +1,23 @@
+name: NxSpawner
+version: '1.0.0'
+main: dev.fluffyworld.nxspawner.NxSpawner
+api-version: '1.20'
+author: MasterN
+description: Plugin that allows players to manually retrieve spawners back into their inventory.
+commands:
+  nxspawner:
+    description: NxSpawner commands
+    aliases:
+      - nxs
+      - ns
+      - nxsp
+permissions:
+  nxspawner.give:
+    description: Allows giving spawners
+    default: op
+  nxspawner.claim:
+    description: Allows claiming spawners
+    default: true
+  nxspawner.reload:
+    description: Allows reloading the plugin configuration
+    default: op

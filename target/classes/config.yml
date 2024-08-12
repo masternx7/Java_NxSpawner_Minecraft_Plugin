@@ -1,0 +1,25 @@
+messages:
+# Reload config message
+  config-reloaded: "&aConfig reloaded."
+# If the player does not have Permission, a message will appear as follows.
+  no-permission: "&cYou don't have permission to use this command."
+# If the player's name is not found, the following message will appear.
+  player-not-found: "&cPlayer not found."
+# Message when giving a spawner to a player
+  spawner-given: "&aSpawner for %s given."
+# Message when giving a spawner to another player
+  spawner-given-to: "&aSpawner given to %s."
+# The Spawner mob type is incorrect and will display the following message.
+  invalid-mob-type: "&cInvalid mob type."
+# Message to players to manually retrieve spawners back into their inventory.
+  spawner-claimed: "&aSpawner claimed."
+# A message indicating that the player does not own the Spawner.
+  not-owner: "&cYou do not own this spawner."
+# A message stating that the spawner was not placed by the player means that it occurred naturally.
+  not-player-placed: "&cThis spawner is not player-placed."
+# A message indicating that the player is not looking at the Spawner.
+  no-spawner-in-range: "&cNo spawner in range."
+# The message tells the player that Cannot destroy your own Spawner that you have placed.
+  not-broken: "&cYou cannot smash Spawner cages that you place yourself."
+# The message displayed teaches how to use the command.
+  usage-message: "&6Commands:\n&e/ns give <player> <type> &f- Give Spawner\n&e/ns claim &f- For pulling Spawner into Inventory\n&e/ns reload &f- Reload config"
